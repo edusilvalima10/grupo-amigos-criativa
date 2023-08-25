@@ -22,4 +22,10 @@
     
     background-image:linear-gradient( rgb(0, 0, 0), rgb(245, 0, 0));
 }
+
+.imagemcabecalho img{
+    margin-bottom: 0%;
+    width: px;
+    height: 64px;
+}
    
