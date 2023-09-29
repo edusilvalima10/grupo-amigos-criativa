@@ -1,0 +1,103 @@
+
+   
+   
+*{
+    margin: 0%;
+    padding: 0%;
+   
+}
+.seçao-cabeçalho
+.cabeçalho{
+ background-color: black;
+
+}   
+
+   
+.cabeçalho-escrita{
+   
+    display: inline-block;
+    justify-content: space-around;
+    padding: 10px;
+   
+    font-size: 30px;
+   
+    color: rgb(255, 255, 255);
+}
+.pet-cabeçalho{
+    width: 10%;
+    padding-left: 60px;
+    padding-top: 30px;
+}
+
+.escola{
+    
+    background-image:linear-gradient( rgb(0, 0, 0), rgb(255, 0, 0));
+    display: flex;
+    display: flex;
+   
+}
+.escola-escrita{
+font-size: 40px;
+padding: 120PX;
+
+
+
+
+color: aliceblue;
+}
+.imagemcabecalho{
+    padding: 200px;
+    width: 40%;
+   
+    padding-left: 10px;
+
+}
+.meio-site{
+   
+    background-color: rgb(255, 0, 0);
+   height: 90px;
+ 
+}
+.escrita-meio{ 
+    text-align: center;
+    padding: 100px;
+    font-size: 100PX;
+    color: aliceblue;
+
+  
+}
+
+.final-site{
+    background-image:linear-gradient( rgb(255, 0, 0), rgb(0, 0, 0));
+    padding-bottom: 500px;
+
+}
+.estudantes{
+    text-align: center;
+    padding: 220px;
+    color: aliceblue;
+    
+}
+
+.amogus > p {
+    text-align: center;
+}
+
+
+.imagens-meio > img{
+    width: 400px;
+    
+    
+}
+
+
+#ciano{
+    width: 300px;
+}
+
+.BARRA-FINAL{
+    background-color: black; 
+   
+  
+
+}
