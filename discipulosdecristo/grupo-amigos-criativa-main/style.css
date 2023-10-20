@@ -86,6 +86,7 @@ color: aliceblue;
 
 .imagens-meio > img{
     width: 400px;
+    l
     
     
 }
@@ -95,6 +96,20 @@ color: aliceblue;
     width: 300px;
 }
 
+
+.segunda-barra > img{
+    width: 400px;
+    
+    
+}
+
+#azul{
+width: 300px;
+}
+
+.Marllon{
+    width: 300px;
+}
 .BARRA-FINAL{
     background-color: black; 
    
