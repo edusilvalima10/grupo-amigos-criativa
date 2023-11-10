@@ -31,7 +31,7 @@
 
 .escola{
     
-    background-image:linear-gradient( rgb(0, 0, 0), rgb(245, 0, 0));
+    background-image:linear-gradient( rgb(0, 0, 0), rgb(255, 0, 0));
     display: flex;
     display: flex;
    
@@ -54,7 +54,7 @@ color: aliceblue;
 }
 .meio-site{
    
-    background-color: red;
+    background-color: rgb(255, 0, 0);
    height: 90px;
  
 }
@@ -66,12 +66,49 @@ color: aliceblue;
 
   
 }
+
 .final-site{
     background-image:linear-gradient( rgb(255, 0, 0), rgb(0, 0, 0));
     padding-bottom: 500px;
 
 }
+.estudantes{
+    text-align: center;
+    padding: 220px;
+    color: aliceblue;
+    
+}
 
+.amogus > p {
+    text-align: center;
+}
+
+
+
+
+.vermeio{
+    width: 400px;
+}
+
+
+#ciano{
+    width: 350px;
+}
+
+
+.verde{
+    width: 400px;
+    
+    
+}
+
+#azul{
+width: 300px;
+}
+
+.Marllon{
+    width: 300px;
+}
 .BARRA-FINAL{
     background-color: black; 
    
